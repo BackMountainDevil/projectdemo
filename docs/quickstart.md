@@ -2,12 +2,12 @@
 
 ## Prerequisite
 
-环境准备：软件使用需要满足的前置条件
+Before we start to install, we should check what and prepare what?
 
 ## Installation
 
-安装：软件的安装方法
+How to install this software?
 
 ## Configuration
 
-设置：软件的设置
+How to config this software?

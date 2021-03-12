@@ -1,14 +1,21 @@
 # Introduction
 
-[目录](_sidebar.md)
+[Catalog](_sidebar.md)
 
-> 简介（Introduction）提供对产品和文档本身的总体的、扼要的说明
 
 How to read this docs elegantly except reading md files directly?
 
 Just Run the bash shell, then look at http://localhost:3000  
 - Linux  
 `bash docs/run.sh`
+
+- Winodws  
+    - python 3  
+        `cd docs && python -m http.server 3000`
+    - python 2  
+        `cd docs && python -m SimpleHTTPServer 3000`
+    - docsify  
+        `docsify serve docs`
 
 what is it?
 
